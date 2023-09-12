@@ -1,6 +1,4 @@
 
-![logo](https://s3.ap-northeast-2.amazonaws.com/admin.play3r.io/PLAY3R-Logo-with-TL-LM.png)
-
 ## 📆 Roadmap
 We are currently in the Private Beta phase.
 - [Kanban](https://github.com/orgs/RPG-REPUBLIC/projects/10)
