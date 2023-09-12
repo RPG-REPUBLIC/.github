@@ -12,11 +12,13 @@ We are currently in the Private Beta phase.
 Repository for backend APIs
 - [Repository](https://github.com/RPG-REPUBLIC/web3-wallet-api)
 - [Issue](https://github.com/RPG-REPUBLIC/web3-wallet-api/issues)
+- [PR](https://github.com/RPG-REPUBLIC/web3-wallet-api/pulls)
 
 ---
 ## 📱 Wallet APPs
 Mono repository for Chrome extensions and web clients
 - [Repository](https://github.com/RPG-REPUBLIC/web3-wallet)
 - [Issue](https://github.com/RPG-REPUBLIC/web3-wallet)
+- [PR](https://github.com/RPG-REPUBLIC/web3-wallet/pulls)
 
 ---
